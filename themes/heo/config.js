@@ -21,8 +21,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '价格动态',
   HEO_HERO_TITLE_2: '与趋势方向',
   HEO_HERO_TITLE_3: 'xiao8867785.dpdns.org',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_4: '生活专家',
+  HEO_HERO_TITLE_5: '精准预测生活必需品价格走势',
   HEO_HERO_TITLE_LINK: 'https://xiao8867785.dpdns.org',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',

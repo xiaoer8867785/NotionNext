@@ -77,3 +77,5 @@ The MIT License.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=tangly1024/NotionNext&type=Date)](https://star-history.com/#tangly1024/NotionNext&Date)
+
+<!-- deploy-trigger: 2026-06-02 07:57:29 -->

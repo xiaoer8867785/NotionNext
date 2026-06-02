@@ -43,6 +43,10 @@ class MyDocument extends Document {
     return (
       <Html lang={BLOG.LANG}>
         <Head>
+          {/* Google Fonts 预连接 */}
+          <link rel="preconnect" href="https://fonts.googleapis.com" crossOrigin="anonymous" />
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+
           {/* 预加载字体 */}
           {BLOG.FONT_AWESOME && (
             <>

@@ -17,7 +17,12 @@ module.exports = {
 
   // 字体优化配置
   FONT_DISPLAY: process.env.NEXT_PUBLIC_FONT_DISPLAY || 'swap',
-  FONT_PRELOAD: process.env.NEXT_PUBLIC_FONT_PRELOAD || true,
+  FONT_PRELOAD: process.env.NEXT_PUBLIC_FONT_PRELOAD || true, // 字体预加载
+  // 字体预连接域名(加快Google Fonts加载)
+  FONT_PRELOAD_DOMAINS: [
+    'https://fonts.googleapis.com',
+    'https://fonts.gstatic.com'
+  ],
   FONT_SUBSET: process.env.NEXT_PUBLIC_FONT_SUBSET || 'chinese-simplified',
   // 无衬线字体 例如'"LXGW WenKai"'
   FONT_SANS: [

@@ -62,3 +62,5 @@ package-lock.json
 .perf/
 tsconfig.tsbuildinfo
 webpack-internal:/
+
+.notion-config.json

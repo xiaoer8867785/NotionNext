@@ -64,3 +64,4 @@ tsconfig.tsbuildinfo
 webpack-internal:/
 
 .notion-config.json
+.env*
